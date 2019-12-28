@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "340869441231",
+    "firebase_url": "https://market-memmory.firebaseio.com",
+    "project_id": "market-memmory",
+    "storage_bucket": "market-memmory.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:340869441231:android:99f5877959a36c8172b9ba",
+        "android_client_info": {
+          "package_name": "com.example.marketmemmory"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "340869441231-i1q780m81ev7rc5se8e28dkt4ehb08oa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.marketmemmory",
+            "certificate_hash": "2fd664c6e4f01d9401bd82f18672539ffa47d3f9"
+          }
+        },
+        {
+          "client_id": "340869441231-sph8i9gcrgnv9bui985bnebbc0oui19e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvRD_gcP4vreObNsiqy_yFKL73YzJaQVc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "340869441231-sph8i9gcrgnv9bui985bnebbc0oui19e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
